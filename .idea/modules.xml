@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/EX3_TP1_SOA_Etudiant/EX3_TP1_SOA_Etudiant.iml" filepath="$PROJECT_DIR$/EX3_TP1_SOA_Etudiant/EX3_TP1_SOA_Etudiant.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ex3_TP1_SOA/Ex3_TP1_SOA.iml" filepath="$PROJECT_DIR$/Ex3_TP1_SOA/Ex3_TP1_SOA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/TP1_SOA_EX3_Aymane_houri.iml" filepath="$PROJECT_DIR$/.idea/TP1_SOA_EX3_Aymane_houri.iml" />
+    </modules>
+  </component>
+</project>
